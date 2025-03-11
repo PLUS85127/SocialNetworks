@@ -3,7 +3,7 @@ Nota: Las capturas de la  prueba con thunder client estan por separado en un arc
 
 # Sistema de Seguidores y Mensajes Directos
 
-## 📌 Descripción del Proyecto
+##  Descripción del Proyecto
 Este es un proyecto para una red social básica que permite a los usuarios registrarse, seguir a otros usuarios, enviar mensajes y ver los mensajes recibidos. UsandoMongoDB
 
 ## Estructura 
